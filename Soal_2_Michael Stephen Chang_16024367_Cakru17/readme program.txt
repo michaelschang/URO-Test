@@ -1,13 +1,13 @@
 File ini berisi penjelasan tentang program pada file Jawaban_2.py.
 
 Terdapat tiga class, yaitu:
-- Robot untuk membuat objek robot,
-- Game yang membuat introduksi dan alur permainan, serta
+- Robot yang memuat objek robot,
+- Game yang memuat alur permainan, serta
 - Battle yang memuat cara kerja permainan.
 
 Konsep pertarungan robot ini dibuat menyerupai konsep battle di game Pokemon.
 
-Dibuat tiga robot yang dapat dipilih user. Setelah memilih sebuah robot, user akan melawan salah satu dari tiga robot lainnya.
+Dibuat tiga robot yang dapat dipilih user. Setelah memilih sebuah robot, user akan melawan salah satu dari dua robot lainnya.
 
 Game berlangsung hingga salah satu robot kehabisan hit points. Hit points bertambah atau berkurang dengan menerima atau melakukan attack.
 
